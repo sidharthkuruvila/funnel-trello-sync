@@ -1,0 +1,4 @@
+mock==2.0.0
+trello-py
+jinja2
+html2text
